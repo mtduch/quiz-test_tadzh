@@ -1,10 +1,11 @@
 body {
-    font-family: Arial,sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 18px;
     line-height: 1.6;
     margin: 20px;
     background-color: #f4f4f9;
-    color: #333;
+    color: #ffffff;
+    background-image: url('9f19542dfd46d67d75c623c2c32e53df.jpg');
 }
 h1 {
     text-align: center;
